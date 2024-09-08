@@ -8,7 +8,7 @@ As an Internet Service Provider (ISP), you have been tasked with improving the e
 
 ## Files
 
-- **Starter File**: [spam_detector.ipynb]((https://github.com/dmmonjur/classification-challenge.git))
+- **Starter File**: [spam_detector.ipynb](https://github.com/dmmonjur/classification-challenge.git)
 - **Dataset**: [Spam Data](https://static.bc-edx.com/ai/ail-v-1-0/m13/challenge/spam-data.csv)
 
 ## Before You Begin
